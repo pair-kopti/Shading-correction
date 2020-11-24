@@ -1,0 +1,21 @@
+D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective
+STITCHING BEGINS!
+Error loading plan from file: D:\Fiji\lib\fftw\fftPlans... generating plan.
+Loading FFTW Plan...
+Saving plan to file: D:\Fiji\lib\fftw\fftPlans
+Finished loading/saving FFTW plan. Commencing stitching.
+memory pool size: 20
+Writing relative positions (no optimization) to: D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective\img-relative-positions-no-optimization-0.txt
+Computed North overlap: 25.0%
+Computed West overlap: 25.0%
+Warning: the computed repeatability (13) is unusually large. Consider manually specifying the repeatability in the Advanced Parameters.
+Repeatability for North: 13 pixels
+Repeatability for West: 4 pixels
+Calculated Repeatability: 27 pixels
+Completed Stitching in 35339ms
+Writing global positions to: D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective\img-global-positions-0.txt
+Writing relative positions to: D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective\img-relative-positions-0.txt
+Writing relative positions (no optimization) to: D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective\img-relative-positions-no-optimization-0.txt
+Completed output options for slice 0.
+Saving Statistics to "D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective\img-statistics.txt"
+Saving Log to "D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective\img-log.txt"

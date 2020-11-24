@@ -1,0 +1,93 @@
+System information:
+Java Version: 1.8.0_172
+Operating System: Windows 10 amd64 v10.0
+CPU threads used: 8
+Free memory available to JVM (GB): 3
+Total memory available to JVM (GB): 3
+Max memory for JVM (GB): 148
+Execution type: Auto
+
+Execution timing and general information:
+Statistics Output Version: 1.0
+
+Total time for experiment (ms): 35880
+Total Stitching Time (ms): 35339
+Relative Displacement Time (ms): 29623
+Global Optimization Time (ms): 5716
+Stage Model Build Time (ms): 49
+Global Position Time (ms): 0
+Running sequential version (LOW MEMORY): false
+Keep all pixel data in memory: true
+
+North repeatability: 13
+North overlap: 25.0
+North valid tiles after filter: 85 out of 90 (94.4%)
+North min filter threshold: 1203.3
+North max filter threshold: 1375.2
+North missing row/col: []
+North percentage missing row/col: 0%
+
+West repeatability: 4
+West overlap: 25.0
+West valid tiles after filter: 81 out of 90 (90%)
+West min filter threshold: 1612.8
+West max filter threshold: 1843.2
+West missing row/col: []
+West percentage missing row/col: 0%
+
+Error report: WARNING
+- Computed North repeatability is high.
+- The developers are interested in problematic data sets. 
+Issues with stitching can be submitted to: 
+nist-mist@nist.gov
+or
+http://github.com/USNISTGOV/MIST/issues
+
+Stitching Run-time parameters:
+gridWidth: 10
+gridHeight: 10
+startTile: 0
+imageDir: D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective
+filenamePattern: {pppp}.jpg
+filenamePatternType: SEQUENTIAL
+gridOrigin: UL
+numberingPattern: HORIZONTALCOMBING
+assembleFromMetadata: false
+globalPositionsFile: 
+startRow: 0
+startCol: 0
+extentWidth: 10
+extentHeight: 10
+timeSlices: 0
+isTimeSlicesEnabled: false
+outputPath: D:\KOPTI\스캐너 과제\ImageDB\200107\156-01-86\01\Prospective
+displayStitching: false
+outputFullImage: false
+outputMeta: true
+outputImgPyramid: false
+blendingMode: LINEAR
+blendingAlpha: 6.0
+outFilePrefix: img-
+programType: AUTO
+numCPUThreads: 8
+loadFFTWPlan: true
+saveFFTWPlan: true
+fftwPlanType: MEASURE
+fftwLibraryName: libfftw3f
+fftwLibraryFilename: libfftw3f.dll
+planPath: D:\Fiji\lib\fftw\fftPlans
+fftwLibraryPath: D:\Fiji\lib\fftw
+stageRepeatability: 0
+horizontalOverlap: NaN
+verticalOverlap: NaN
+numFFTPeaks: 2
+overlapUncertainty: 5.0
+isUseDoublePrecision: false
+isUseBioFormats: false
+isSuppressModelWarningDialog: false
+isEnableCudaExceptions: false
+translationRefinementMethod: SINGLE_HILL_CLIMB
+numTranslationRefinementStartPoints: 16
+headless: true
+logLevel: MANDATORY
+debugLevel: NONE
